@@ -1,7 +1,8 @@
 # My 1st Solidity Smart Contract
-Building an application using the Solidity software, results were tested on an Eth test network(Ropsten)
 
-![2021-11-06 (2)](https://user-images.githubusercontent.com/80294571/140623832-97c2c480-efb1-4e38-bb30-8b8d760e7f95.png)
+![pexels-rodnae-productions-8370345](https://user-images.githubusercontent.com/80294571/140624462-9bbb1639-72bd-44f4-b032-136fab20e793.jpg)
+##### *Photo by RODNAE Productions from Pexels*
+
 
 ### Background
 Your new startup has created its own Ethereum-compatible blockchain to help connect financial institutions, and the team wants to build smart contracts to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
